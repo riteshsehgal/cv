@@ -1,0 +1,78 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("../Images/bground2.jpg");
+}
+#header{
+  padding: 3% 2% 3% 2%;
+}
+.rectangleBlock{
+  width: 30px;
+  height: 60px;
+  background-color: #39311d;
+  display: inline-block;
+}
+.testblk{
+  display: inline-block;
+  vertical-align: top;
+}
+.tblStyle{
+  width: 100%;
+  margin-bottom: 20px;
+  color: #16a596;
+}
+.workDuration{
+  text-align: left;
+}
+.workPlace{
+  text-align: right;
+}
+.workPlaceImg{
+  border-radius: 100%;
+  width:10%;
+}
+.profileName{
+  font-size: 3rem;
+}
+.profileSummary{
+  font-weight: 300;
+  font-size: .75rem;
+}
+.designation{
+  font-size: 1.5rem;
+  color: #16a596;
+}
+.profilePic{
+  width: 70%;
+  border-radius: 100%;
+  border: 2px solid;
+  border-color: #16a596;
+}
+.picAlign{
+  text-align: center;
+}
+.contactDetail{
+  font-size: .75rem;
+}
+#workexperience{
+  padding: 0 2% 3% 2%;
+}
+.expHeading{
+  font-size: 1.5rem;
+}
+.btnStyle{
+margin: 5px 5px;
+}
+.accomplStyle{
+  color: #16a596;
+}
+.accomplStyleDetails{
+  font-size: .75rem;
+}
+.interestTable{
+width: 100%;
+}
+.interestCell{
+  text-align: left;
+  padding-bottom: 20px;
+}
